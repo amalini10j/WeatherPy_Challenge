@@ -25,7 +25,7 @@ The following exercises will increase the usability of the application:
 
 **Hotels based on location and weather**
 
-![Hotels](/Vacation_Search/WeatherPy_Database.png)
+![Hotels](/Vacation_Search/WeatherPy_vacation_map.png)
 
 **Driving directions between multiple locations**
 
